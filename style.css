@@ -22,13 +22,6 @@ h1, h2 {
     background-color: white; /* Define a cor de fundo das seções */
 }
 
-a {
-    color: #007bff; /* Define a cor dos links */
-    text-decoration: none; /* Remove o sublinhado dos links */
-}
 
-a:hover {
-    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse sobre os links */
-}
 
 
